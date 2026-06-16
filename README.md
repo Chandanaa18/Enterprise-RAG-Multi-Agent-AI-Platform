@@ -1,4 +1,4 @@
-Secure Enterprise RAG + Agent Platform
+# Secure Enterprise RAG + Agent Platform
 A production-ready multi-agent RAG platform built with FastAPI, LangGraph, PostgreSQL (pgvector), and MLflow.
 
 Architecture
